@@ -10,7 +10,7 @@ This repository showcases one of the real-world AI agent design workflows I deve
 
 ---
 
-##  Scope & Components
+## 🧩 Scope & Components
 The AI system was designed to support creative teams in the following areas:
 
 - Character Design (for packaging & storytelling)
@@ -24,7 +24,7 @@ Each of these modules was connected through a unified visual system based on the
 
 ---
 
-##  Key Challenge
+## 🎯 Key Challenge
 
 > Maintaining **brand visual consistency** across all outputs — from character lines to web components — while using multiple generative models and adapters.
 
@@ -35,7 +35,7 @@ The system needed to:
 
 ---
 
-##  Technical Summary
+## ⚙️ Technical Summary
 
 - **Framework**: ComfyUI
 - **Model Stack**: Combination of open-source base models using [Ollama], [IP-Adapters], [Controlnet], and control modules
@@ -45,7 +45,7 @@ The system needed to:
 
 ---
 
-##  Folder Structure
+## 📁 Folder Structure
 
 - `/workflows`: screenshots of ComfyUI workflows (JSON files not included due to IP policy)
 - `/outputs`: selected visual outputs categorized by domain (product, story, UI, etc.)
@@ -54,7 +54,7 @@ The system needed to:
 
 ---
 
-##  Preview
+## 📸 Preview
 
 <div align="center">
   <img src="outputs/brandA/hero-image.jpg" alt="Hero Visual" width="600"/>
