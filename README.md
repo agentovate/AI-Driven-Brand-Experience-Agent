@@ -7,7 +7,7 @@ This repository showcases one of the real-world AI agent design workflows I deve
 **Role**: AI Agent & Workflow Designer  
 **Platform**: ComfyUI (custom workflows with model orchestration and user input control)  
 **Duration**: Iterative over multiple weeks (2024)
-
+**teammate**: Leila Daem Inanloo
 ---
 
 ## 🧩 Scope & Components
