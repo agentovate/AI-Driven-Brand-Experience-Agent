@@ -57,7 +57,7 @@ The system needed to:
 ## 📸 Preview
 
 <div align="center">
-  <img src="outputs/brandA/hero-image.jpg" alt="farkhodeh_Story_design_workflow" width="600"/>
+  <img src="outputs/brandA/farkhodeh_Story_design_workflow-image.jpg" alt="farkhodeh Story design workflow" width="600"/>
   <p><i>Sample key visual generated as part of the product packaging direction</i></p>
 </div>
 
