@@ -57,7 +57,7 @@ The system needed to:
 ## 📸 Preview
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/agentovate/AI-Driven-Brand-Experience-Agent/main/outputs/farkhondeh/Farkhodeh-Story-Generate-Workflow.jpg" alt="Farkhodeh-Story-Generate-Workflow" width="600"/>
+<img src="[https://github.com/agentovate/AI-Driven-Brand-Experience-Agent/blob/main/Farkhodeh-Story-Generate-Workflow.png]" alt="Farkhodeh-Story-Generate-Workflow" width="600"/>
   <p><i>Sample key visual generated as part of the product packaging direction</i></p>
 </div>
 
